@@ -1,0 +1,22 @@
+# Python
+venv/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Rust target directory
+target/
+
+# FastAPI secrets
+.env
+
+# AI model binaries (optional)
+*.dylib
+*.so
+*.pb
+*.h5
+*.ckpt
+
+# Node
+node_modules/
